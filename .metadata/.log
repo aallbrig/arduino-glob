@@ -1,0 +1,20 @@
+!SESSION 2015-06-20 16:26:48.023 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -product org.eclipse.epp.package.cpp.product -keyring /Users/aallbrig/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -data /Users/aallbrig/Documents/Arduino -product org.eclipse.epp.package.cpp.product -keyring /Users/aallbrig/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-06-20 16:26:50.911
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
+!SESSION 2015-07-25 21:21:32.447 -----------------------------------------------
+eclipse.buildId=4.4.2.M20150204-1700
+java.version=1.8.0_05
+java.vendor=Oracle Corporation
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.cpp.product -keyring /Users/aallbrig/.eclipse_keyring -showlocation
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -product org.eclipse.epp.package.cpp.product -keyring /Users/aallbrig/.eclipse_keyring -showlocation
+
+!ENTRY org.eclipse.core.net 1 0 2015-07-25 21:21:36.024
+!MESSAGE System property http.nonProxyHosts has been set to local|*.local|169.254/16|*.169.254/16 by an external source. This value will be overwritten using the values from the preferences
